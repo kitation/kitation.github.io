@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: Gamefest 2011
+author:
+  display_name: chad
+  login: chad
+  email: katayoku@googlemail.com
+  url: ''
+author_login: chad
+author_email: katayoku@googlemail.com
+wordpress_id: 119
+wordpress_url: http://www.kitation.co.uk/?p=119
+date: !binary |-
+  MjAxMS0wOS0xOCAxMzowNjoyOSArMDEwMA==
+date_gmt: !binary |-
+  MjAxMS0wOS0xOCAxMzowNjoyOSArMDEwMA==
+categories:
+- review
+tags:
+- gaming
+- review
+comments: []
+---
+<p>This year was the first Gamefest; a gaming expo in the NEC Birmingham that's basically the public offshoot of Game's annual managers conference. Three days of gaming with the biggest selling point being the UK exclusive play of Modern Warfare 3. I went just for the Saturday with my girlfriend and a friend.</p>
+<p>At half 9 in the morning, there was no queue to get in and the game queues where there were any were pretty short. After meeting another friend in the Capcom booth and playing some Dead Rising, we hit the Skyrim queue. Unfortunately Skyrim wasn't playable, it was a "20 minute narrated walkthrough" but the queue was short enough that we didn't really mind waiting. Bethesda also had playable Rage demos, but that was a seperate queue which I thought was a bit silly, both from a gamer perspective of not wanting to queue twice for the same room but also from a company perspective of not being able to cross pollinate their RPG and FPS fanbases. At the busiest time of the day, the Skyrim queue was over three hours, and it definitely wasn't worth that long a wait.</p>
+<p>After Skyrim, we hit the Nintendo booth hoping to play some Skyward Sword. There was no queue as such, just a mess of people so we dicked around on some 3DS games instead. I tried playing on a 3DS before but I have a lazy eye which means I can't really see the 3D. At Gamefest though I could see it much better, perhaps because the machines were docked in the displays rather than holding them by hand. Ocarina of Time plays beautifully and the analog stick feels solid and responsive. Also had a play on Mario Land 3D, which again looks nice but doing the 2D jumps in the 3D I found to be a bit frustrating. Katie tried Mario Kart, she said it's "alright, but a bit fiddly with the formula".</p>
+<p>As we were wandering around after Nintendo, the queues for MW3 and Battlefield 3 were just mental. We kept finding queues where you had no idea what they were actually for. Right in the corner, I found a retro booth. I am aware of the slight irony of going to a game marketing event and spending times playing on games 20 years old, but they had Bubble Bobble on a Master System and I was lost. Also had my very first go on an Atari Jaguar playing Wolfenstein, even if I did overhear someone walking behind me saying "Oh look they have Doom".We also nipped up to Ubisoft to try Rayman Origins. It's much harder than it looks but never feels unfair. Graphically beautiful with that telltale Rayman humour and art style. My only complaint was parents using the Ubisoft booth as some kind of creche.</p>
+<p>After lunch we went up the the Sony booth because they had the remastered ICO and Shadow of the Colossus playable on 3D TVs. Lots of people watching SotC, the majesty of the beasts drawing in a lot of awe. I only got to play on ICO and it was wonderful. I already love the game, but the remaster adds to it lovely. Obviously there is only so much you can do with those textures and it still looks last-gen, but the detail especially on Yorda was breathtaking. I had no problems seeing the 3D, Sony TVs use polarised glasses, and it really adds a lot to games like ICO where you have a lot of wide environment shots. If you missed out playing these games on the PS2, I would absolutely recommend trying them on PS3.</p>
+<p>A quick trip back to the retro booth led to me being utterly demolished at 4 player Micro Machines and it was really cool to see younger people playing the older machines, Bomberman being a particular hit. We looked at Forza 3, Arkham City and F1 2011 rather than queuing to play them, all look amazing but I couldn't tell what was different from their predecessors at the brief glimpse we saw. As the afternoon quieted we managed to get that go on Skyward Sword we wanted. I honestly don't think it's as pretty as Twilight Princess and I'm unsure in general about the Wii for Zelda games. The motion controls are really good and responsive enough, the Motion Plus makes it much smoother than Twilight Princess was on Wii, but fights do become tiring and Zelda as a game I personally prefer to be a sit down and play all day kind of game, it's not really pick up and play for 20 minutes at a time. Managed to get a quick game of Soul Calibur 5 on the way out, again good fun but not sure how different it is from SC4.</p>
+<p>In general it was a really fun day and for a first go Game put on a varied and interesting show. There was a lot of wasted space and I might have liked a few more shops. There was a large booth where you could get copies of Nuts signed by the models, which I thought was horribly tacky. There were a lot of girls at the show which is really encouraging and kills the stereotype of gamers being male neckbearded nerds, but the massive queue to get a shit magazine signed by a bikini-clad model really demeaned that. Not only that but I just thought it was a waste of floor space. Some publishers could have managed the crowd better but most did it very well. I was disappointed with the Skyrim showing, it should be playable this close to release. Overall I hope it returns next year, despite being so close to the Eurogamer Expo it had a good turnout, probably because of it's more northern location.</p>

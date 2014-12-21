@@ -1,0 +1,12 @@
+# Site settings
+title: Reach Out To The Truth
+email: chad@kitation.co.uk
+description: This is a blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: kitation
+github_username:  kitation
+
+# Build settings
+markdown: kramdown

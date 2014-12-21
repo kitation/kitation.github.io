@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: ! '>Fable 3'
+author:
+  display_name: chad
+  login: chad
+  email: katayoku@googlemail.com
+  url: ''
+author_login: chad
+author_email: katayoku@googlemail.com
+wordpress_id: 22
+wordpress_url: http://kitation.wordpress.com/2010/11/01/fable-3
+date: !binary |-
+  MjAxMC0xMS0wMSAxNDoyMjowMCArMDAwMA==
+date_gmt: !binary |-
+  MjAxMC0xMS0wMSAxNDoyMjowMCArMDAwMA==
+categories:
+- fable 3
+- gaming
+- review
+tags: []
+comments: []
+---
+<p>&gt;It's a well known phrase; "Fool me once, shame on you. Fool me twice, shame on me." And it's a well known joke in the gaming community that a Fable game never will be what it says it will be. And really that's alright, because the gameplay and the world underneath are always worth visiting.</p>
+<p>So you're a lazy princess/prince who sleeps with dogs and has John Cleese as your butler; your brother is the king and he's being a royal dick so your butler and Bernard Hill take you away to claim your&nbsp;heritage&nbsp;as the child of Albion's most famous Hero. So you scour the land for allies to help you overthrow your brother and take the throne to improve the land from its dire state. Each ally you gain by making promises to help them out once you become King/Queen. You have to make these promises to make the game progress, which feels a little silly but otherwise all that work you did gaining their trust would have been slightly pointless. Then you travel to a new land, end up in a Lovecraftian desert that in now in my top ten gaming moments of all time, and come back to face your brother and become ruler. As ruler you have to make tough decisions to keep your promises and drive the land to ruin, or be an evil but rich tyrant.</p>
+<p>All the Fable staples are here. You can buy, sell and rent houses, get married and have children. Single parents and gay characters can adopt and a nanny will raise your children if you have no spouse or if they die in some kind of freak accident that occurs between the pause screen and back again. There's no menu system here, everything from shopping to trying outfits to levelling up is done 'in-game' and actually works really well. The main character voice acting is excellent and the writing easily surpasses Fable 2. NPCs still have those stereotypical English voices that will drive you mad and make any sex scene exist somewhere between&nbsp;embarrassment&nbsp;and hilarity.</p>
+<p>So, negatives. The main plot is much much too short, and the climax of the story will hit you without warning making the countdown of days till disaster entirely pointless. The good or evil moral choice system is frustratingly dated and its a shame no work was done to improve this and make it more immersive; seeing how it's one of Lionhead's favourite toys. And no matter your alignment it makes little difference really until the post-end game. Ruling is boring as shit. I would have much preferred something a little more complicated, like Simcity 2000 budget setting or something. The map allows fast travel much as Fable 2 did, but this Albion feels much less open and connected. And the bugs. Jesus Christ, someone buy Lionhead some more testers, this really could have done with it. Took me ages to walk my boyfriend to a date because pathfinding fuck-ups kept breaking running so we could only walk Very. Very. Slowly. Also "Do this thing and I'll be your friend"? I'm the fucking Queen, if I want to drag you to my big castle so you can impregnate me then that's what I'll do!</p>
+<p>Final opinion: Worth playing, but possibly rent or borrow from a friend. Central gameplay pretty much unchanged but tweaked and the lack of menus really helps game flow. Voice acting spectacular. Too short, and too simplistic. After Dragon Age Fable 3 feels like a relic from the past.</p>

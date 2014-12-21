@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: ! '>Dragon Age 2'
+author:
+  display_name: chad
+  login: chad
+  email: katayoku@googlemail.com
+  url: ''
+author_login: chad
+author_email: katayoku@googlemail.com
+wordpress_id: 28
+wordpress_url: http://kitation.wordpress.com/2011/02/26/dragon-age-2
+date: !binary |-
+  MjAxMS0wMi0yNiAwOTo1NjowMCArMDAwMA==
+date_gmt: !binary |-
+  MjAxMS0wMi0yNiAwOTo1NjowMCArMDAwMA==
+categories:
+- dragonage
+- gaming
+- review
+tags: []
+comments: []
+---
+<p>&gt;Anyone who has spoken to me about gaming for more than 2 minutes will know that I have a deep, and slightly weird, love for Dragon Age:Origins. I'll probably write up some epic post about that at some point, but this one is about Dragon Age 2, whose demo made it out onto PSN/XBL/PC earlier in the week.</p>
+<p>I am not ashamed to admit I am a massive roleplay nerd. I roleplay in WoW, which is not the best RP environment by a longshot. I would really like to play more pen and paper because the taster of it I had I really enjoyed. I love that feeling of living and breathing a character, shaping their hope and desires, weaknesses and flaws. From this point of view, I have some reservations about DA2. The debate about voiced vs unvoiced main character has good points on both sides, but for me I really didn't mind that in DA:O the main character was silent. When you are your character, they have your voice, and being text-based means I knew exactly what my character was saying. There was the occasional breakdown in communication where I thought a sentence had a nice calming tone, but the response from the NPC suggested I said it like a twat. So I do like the little "tone" icon DA2 has. I know this is funny, this is nice, this is threatening to make you eat your own balls etc. But to get that, we've lost the ability to know exactly what our character is about to say. Also, having a voiced character ultimately has the problem that the VA may or may not be any good. </p>
+<p>It feels like it's going backwards. Instead of shaping a character and helping them learn and evolve, we are given the Hawke character and we basically choose if they are nice or not. They come prebuilt, and yeah we can fiddle with them a bit, but the demo didn't really show any of that evolution. Because she's voiced, it's not longer me speaking through a character, but a character being poked by the player. Plus you can't have a dwarf or elf character, and as anyone knows the two dwarven origins in DA:O are the best ones.</p>
+<p>The combat is pretty much the same. No auto-attack so some button-mashing is in order. Tactics are still there and the level-up trees from what little you see look good. The whole "fight like a Spartan" thing does make me want to fly to the US and punch whatever Bioware PR dickwad came up with it. My main gripe with the combat is the noise. Apparently gamers these days need constant sonic reminders that they are in combat, and my fuck-off 2-handed sword sounds awfully like a lightsaber in places. Bioware have said that they want it to be more "Press a button and stuff happens RIGHT NOW". I'm sorry, but if gamers have reached the point where waiting more than half a second to use an ability or spell will somehow cause them to fall asleep at their screens, then I don't know if gaming is worth it anymore.</p>
+<p>They want to widen the audience for this game. It's understandable and somewhat commendable. However, DA:O felt like the kind of game RPG players had been waiting for for so long, and on console it's almost in a genre of one. We already have RPGs like DA2 is trying to be, bloody Mass Effect for a start, get your "10 MILLION SALES" bullshit that way, but don't go pissing on us players who loved, and will continue to love, your much better first DA game. Try the DA2 demo, it's not terrible but it's also not deep enough to help you get a real feel for the game, especially for roleplay fags like me.</p>
