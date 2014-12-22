@@ -5,9 +5,7 @@ published: true
 title: My ode to gaming retail
 author:
   display_name: chad
-  login: chad
-  email: katayoku@googlemail.com
-  url: ''
+
 author_login: chad
 author_email: katayoku@googlemail.com
 wordpress_id: 130

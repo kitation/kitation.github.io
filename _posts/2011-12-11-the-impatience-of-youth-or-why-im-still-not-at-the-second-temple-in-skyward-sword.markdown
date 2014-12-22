@@ -6,9 +6,7 @@ title: The impatience of youth; or why I’m still not at the second temple in S
   Sword
 author:
   display_name: chad
-  login: chad
-  email: katayoku@googlemail.com
-  url: ''
+
 author_login: chad
 author_email: katayoku@googlemail.com
 wordpress_id: 125

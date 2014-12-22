@@ -5,9 +5,7 @@ published: true
 title: Im in ur minez, stealin ur life
 author:
   display_name: chad
-  login: chad
-  email: katayoku@googlemail.com
-  url: ''
+
 author_login: chad
 author_email: katayoku@googlemail.com
 wordpress_id: 87

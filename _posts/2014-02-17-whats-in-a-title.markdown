@@ -5,9 +5,7 @@ published: true
 title: What's in a Title?
 author:
   display_name: chad
-  login: chad
-  email: katayoku@googlemail.com
-  url: ''
+
 author_login: chad
 author_email: katayoku@googlemail.com
 wordpress_id: 202
