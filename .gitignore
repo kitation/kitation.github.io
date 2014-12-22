@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 _site
 .sass-cache
 .ruby-version
 Gemfile
 Gemfile.lock
+=======
+_site/
+.sass-cache/
+>>>>>>> e7fd5d2a02b7b6ff87cbe7b6790c7f4ade69ae81
