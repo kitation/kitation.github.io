@@ -3,6 +3,9 @@ title: Reach Out To The Truth
 email: chad@kitation.co.uk
 description: This is a blog
 baseurl: "" # the subpath of your site, e.g. /blog/
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+excerpt_separator: <!--more-->
 
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: kitation

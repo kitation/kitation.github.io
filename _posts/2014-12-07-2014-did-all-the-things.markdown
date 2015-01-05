@@ -24,6 +24,7 @@ tags:
 comments: []
 ---
 <p>I don't really like end of year lists much, although I'm sure at some point during New Year's Eve I'll drunk tweet some kind of fangirlish braindump. I've done so much this year though and writing it down is helping me to comprehend it.</p>
+<!--more-->
 <p>The tl'dr version is in 2014 I have done the following:</p>
 <ul>
 <li><span style="line-height: 1.714285714; font-size: 1rem;">Given my first conference talk</span></li>

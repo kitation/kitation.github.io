@@ -23,6 +23,7 @@ tags:
 comments: []
 ---
 <p>In the last couple of months, I've done a couple of talks about people who do not fit or identify on the gender binary of male and female. I've always been interested in gender and how society uses it to make assumptions and judgments about people. The interest stems partially from being a woman in technology and how that makes me stand out and also from my own discovery of my gender identity. It's important to raise awareness, and the talks I've done have been well received.</p>
+<!--more-->
 <p>However, talking is easy. What's important is to take action. The most common question I've been asked is 'What can I do to help?'. To that end I've created the Asking About Gender project.</p>
 <p>Stage 1 is a <a href="http://askingaboutgender.tumblr.com" target="_blank">Tumblr blog</a> to collect examples of websites that collect gender in better ways, this is also going to be a platform where people can ask questions and submit their own examples.</p>
 <p>Stage 2 is a best practices document or series of blog posts about issues to consider and good ways to collect gender data. I've started this process of my <a href="http://www.yoomee.com/how-to-ask-about-gender" target="_blank">employer's blog</a> and hopefully will add to it, either there, on this blog or on Tumblr.</p>
