@@ -23,6 +23,12 @@
     }
 }
 
+.site-subtitle {
+    font-size: 13px;
+    float: left;
+    color: $grey-color-light;
+}
+
 .site-nav {
     float: right;
     line-height: 56px;
@@ -157,7 +163,9 @@
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
 }
-
+ .username {
+    color: $grey-color-light;
+ }
 
 
 /**

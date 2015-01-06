@@ -1,7 +1,8 @@
 # Site settings
 title: Reach Out To The Truth
+subtitle: "Ruby web developer, Code Club volunteer, First Play Sheffield co-organiser. Into tech, gender, F1, videogames"
 email: chad@kitation.co.uk
-description: This is a blog
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog/
 permalink: /:year/:month/:day/:title.html
 paginate: 10
