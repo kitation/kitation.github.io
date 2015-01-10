@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: ! '>Team ICO(contains slight spoilers)'
+title: Team ICO (contains slight spoilers)
 author:
   display_name: chad
 

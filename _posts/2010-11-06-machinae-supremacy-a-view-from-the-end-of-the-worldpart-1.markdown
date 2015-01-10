@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: ! '>Machinae Supremacy - A View From the End of the World(Part 1)'
+title: Machinae Supremacy - A View From the End of the World(Part 1)
 author:
   display_name: chad
 

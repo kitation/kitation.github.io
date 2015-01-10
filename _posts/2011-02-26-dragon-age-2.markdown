@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: ! '>Dragon Age 2'
+title: Dragon Age 2
 author:
   display_name: chad
 
