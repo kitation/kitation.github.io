@@ -38,6 +38,10 @@ I have volunteered for some Geek Cadet events where I helped children aged 7-12 
 <p><strong>Public Speaking<br />
 </strong><br />
 These are all the talks I have given and am booked to give. I would love to give more talks around the areas of gaming and technology especially about getting women and children into technology.</p>
+<p><strong>2015</strong></p>
+<p>February 9 - Sheffield Ruby usergroup <em>Ruby Newbie Retro Style</em></p>
+<p>February 24 - Sheffield Python <em>How To Ask About Gender</em></p>
+<p>March 5 - Talk UX, Manchester <em>How To Ask About Gender</em></p>
 <p><strong>2014</strong></p>
 <p>October 18 - Barcamp Manchester <em>Journey to the Centre of the Gendersphere, Are Videogames a Force for Social Good?</em></p>
 <p>October 10 - Nerd Nite Sheffield <em>Journey to the Centre of the Gendersphere</em></p>
