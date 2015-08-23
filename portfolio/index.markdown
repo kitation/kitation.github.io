@@ -85,6 +85,7 @@ comments: []
 <ul>
 	<li>Creating websites using Ruby on Rails</li>
 	<li>Running workshops with clients and users</li>
+	<li>User testing</li>
 </ul>
 <p><strong>Co-founder at First Play Sheffield</strong> February 2012 - Present (3 years)<p>
 <p>Co-founder of First Play Sheffield, a gaming discussion/user group in Sheffield. Responsibilities include
@@ -125,6 +126,9 @@ comments: []
 	children use Pixel Press, a tool for drawing and designing games using paper and the iPad. http:// live.gamesbritannia.com/</p>
 	<p><strong>Club runner at Code Club</strong> October 2014 - present</p>
 	<p>Running an after school Code Club to teach children programming using Scratch</p>
+	<p><strong>Centre Lead for Festival of Code</strong> August 2015 </p>
+	<p>Organised and ran the Sheffield Festival of Code centre</p>
+
 
 <p><h3>Dissertation</h3></p>
 <p>My undergraduate dissertation was about the perceptions of software engineering and how it effects women's career choices. It covers a definition of software engineering, the importance of diversity, issues in education and the workplace as well as my own research and analysis of that research.</p>
