@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: ! 'Pycon Uk 2015'
+author:
+  display_name: chad
+
+tags:
+- python
+- community
+---
+This year I went to my second Pycon UK and my first as a speaker. I'm not a Python developer anymore but I love the community so when I started pitching my Asking About Gender talk to non-UX conferences, they were top of my list. I also went to my first DjangoGirls event as a coach. This is how my weekend went.
+
+<!--more-->
+
+First, a brief history of my Asking About Gender talk. The talk itself is about how to build a gender form input that is inclusive of all genders. In some ways, the link to technology is a thin excuse, to me the main aim is to educate as many people as possible about trans and non-binary genders and issues. The internet now is a massive repository of user data, and if you aren't asking questions correctly, you will lock people out of your software and services. I started giving it as a lightning talk at Talk UX, Bath Ruby and ScotlandJS and as a full talk at Manchester Geek Girls Barcamp, Ladies that UX London and Ladies that UX Manchester. As you can see, I am slowly working my way around as many tech communities as I can. PyconUK is the first time I've presented a full session at a conference.
+
+Diversity is being talked about a lot in our industry, but I worry that diversity is becoming shorthand for "white straight cisgender educated women". Great strides are being made to equalise gender representation in technology, but we must not forget to talk about other minorities such as ethnic minorities and the LGBT community. I am white and middle class, but I am also gay and bigender so I want to help improve and educate about these minorities that I am a part of. 
+
+PyconUK this year has been fantastic in this. The Code of Conduct has been front and centre, but more than that, they have actively encouraged a more diverse audience. On Friday I was part of DjangoGirls, a project to help women get into web development. At the same time was TransCode, a hack day for and about trans and non-binary people. In the evening was a diversity social; I was skeptical as to its usefullness but in the end I really enjoyed being with other non-binary people. I don't have any non-binary friends that I hang out with, so being in a crowd of people similar to me was very affirming. The attendees of TransCode and DjangoGirls had tickets that gave them access to all 4 days of the conference and so the crowd all weekend was awesomely diverse.
+
+My talk was on Saturday at 11am. I was on at the same time as a talk about the BBC Microbit which meant I only filled about half my 80 person capacity. I think it went over quite well and I had lots of interesting questions. I do wish I have been scheduled better. I think it's a really important subject but it wasn't heard by the people who really need to hear it. Lots of the TransCode attendees came which was great (and the audible groan when I talked about 'transgender' being a bad 3rd option for forms really helped hammer the point home) but it's really a talk to educate cispeople and I wish more people had been there. However, it is a good mark of the conference to accept the talk in the first place. 
+
+I find conferences both uplifting and depressing. Uplifting because the community is fantastic and I love speaking, but depressing because I never know what to do with that momentum. I want to change that this time, and also bring my gender talk to more people. So I need your help.
+
+If you are or know an event organiser who would like to hear my talk, or if your company would like me to visit for training please email me at
+askingaboutgender@googlemail.com or poke me on Twitter @kitation. Many thanks again to the PyconUK and DjangoGirls organisers.
