@@ -36,7 +36,7 @@ Great. I understand the phrasing, they are trying to show that they are being in
 
 After that, I really started thinking about my place. I have spoken at female-focused events before and they've been very welcoming, but again that feels like I'm accepted because of my 'female' appearance and my actual gender doesn't matter. Do women in tech events welcome non-binary people, and would they welcome AMAB non-binary people? Is 'woman' shorthand for 'not-man' or is it for 'identifies as woman'? 
 
-**I want to make this absolutely clear; if you are running a woman in tech event because you care about gender diversity, you either have to explicitly state non-binary and trans people are welcome or explain why they are not.**
+**I want to make this absolutely clear; if you are running a woman in tech event because you care about gender diversity, you either have to explicitly state non-binary people are welcome or explain why they are not.**
 
 I feel like I'm in a position of either accepting myself, or being accepted. I'm not the only one. White ciswomen are not the only group in technology that need help, or exposure. All we want is thought and care. 
 
