@@ -12,6 +12,8 @@ tags:
 
 2014 was a checklist of life events. New job, first conference talk, new house, learnt to drive. 2015 was the year where I was going to settle down and do nothing. Let’s examine how amazingly I failed.
 
+<!--more-->
+
 Public Speaking
 ---------------
 2015 was the year my public speaking really took off, and it’s mostly down to writing a single talk. Asking About Gender is a talk about non-binary gender, transgender people and how to stop making services and forms that shut them out. I first gave it as a lightning talk at Talk UX in March and since then it has kinda exploded. So far I’ve given it at:
