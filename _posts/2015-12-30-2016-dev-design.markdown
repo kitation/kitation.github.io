@@ -2,13 +2,12 @@
 layout: post
 status: publish
 published: true
-title: 2016: Career Goals
+title: ! '2016: From Dev To Design'
 author:
   display_name: chad
 
 tags:
 - personal
-- 2016
 - career
 - software
 - community
