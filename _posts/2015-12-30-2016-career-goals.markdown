@@ -12,12 +12,11 @@ tags:
 - career
 - software
 - community
-comments: []
 ---
 
 I have worked in the tech industry since I graduated from university in 2011. Including my placement year, that gives me about 5 years experience, almost exclusively in backend web development. I have now firmly moved out of the junior category and am floating in the middleweight ocean. 
 
-<!-- more -->
+<!--more-->
 
 It is at this time that I really want to think about where my career is going. I have spent a lot of effort working on my communication and people skills, and as such I think that my technical skills are lagging. I feel like I have a choice to make; work more on improving my coding ability through projects and open source, or continue my work in public speaking, teaching and event organising. The mental effort of working on both I think would be too difficult for me, anyone who knows me knows that I value my free time and dislike using it for "work" reasons. 
 
