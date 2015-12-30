@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: 2016: Career Goals
+author:
+  display_name: chad
+
+tags:
+- personal
+- 2016
+- career
+- software
+- community
+comments: []
+---
+I have worked in the tech industry since I graduated from university in 2011. Including my placement year, that gives me about 5 years experience, almost exclusively in backend web development. I have now firmly moved out of the junior category and am floating in the middleweight ocean. 
+
+<!-- more -->
+
+It is at this time that I really want to think about where my career is going. I have spent a lot of effort working on my communication and people skills, and as such I think that my technical skills are lagging. I feel like I have a choice to make; work more on improving my coding ability through projects and open source, or continue my work in public speaking, teaching and event organising. The mental effort of working on both I think would be too difficult for me, anyone who knows me knows that I value my free time and dislike using it for "work" reasons. 
+
+Why did I want to be a software engineer in the first place? Well originally I wanted to get into games development, but the heavy spacial mathematics put me off. I didn't mind this too much though; I quite enjoyed application development and the other parts of my course. I like coding because I like making things, and I can't art or craft to save my life. There is an addictive power in being able to make something from nothing. I wanted to build products and for people to use them.
+
+Lately my feelings about what I enjoy have changed. I've been going to lots of conferences and usergroups but not many talks really excited me. I felt that there was something wrong with me; like I didn't get the joke where everyone around me was laughing. Long conversations about minute details bore me and make me impatient. I have been in this industry long enough to see the fashion cycles; things I learn at uni have become obsolete and then current over and over. I keep feeling frustrated and depressed about how the conversation about gender in tech hasn't moved at all since I wrote about it for my final year project. It's tiring constantly feeling like I need to prove my place, and sometimes I can even convince myself that I'm fake. 
+
+I like my examples to be practical. I like technical talks where there is something I can take back with me, I like things that are done for a reason beyond the academic. This is why my gender talk has a wireframe in it, I want people to take that back with them. I started going to UX conferences, and I found that I loved almost all the talks because UX has to be practical and useable. For the first time in ages, I felt inspired. 
+
+It is no secret that I love where I work at the moment. I am hired to be a developer, and yet I get opportunity to do lots of different things. They give me time for Code Club, I ran Festival of Code with them, I'm in charge of looking at how we can connect better with communities. In the context of client work, I've done workshops and user testing. I'm comfortable enough in this setting that I think I want to change the focus of my career.
+
+I don't want coding to be my main job anymore. I want to move into areas like service design, co-creation and mentoring. This has been a really hard decision to make. Firstly I am paid and employed to code, and I worried about being out of work or having to take a cut down to be a junior again.  Secondly, I feel like I have betrayed my birth gender by ditching "hard" skills for "soft" ones. (Side note: If you refer to people skills as soft skills in front of me, I may punch you on the nose). It plays into all the stereotypes; women have empathy, men are logical. I don't want to be proof that AFAB people can't cut it in a technical environment.
+
+I want to stay in software. I believe that software has a place in making the world better. I still want to build and create and inspire. I don't want to forget that ultimately software is for other people. Teaching code is easy, teaching empathy is where the real challenge lies.
