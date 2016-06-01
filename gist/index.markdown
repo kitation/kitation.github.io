@@ -34,10 +34,20 @@ comments:
 I am one of the founders of <a href="http://www.firstplaysheffield.co.uk" target="_blank">First Play Sheffield</a>, a videogame culture usergroup. As part of this I have organised talks and creative workshops.</p>
 <p><strong>Tutoring<br />
 </strong><br />
-I have volunteered for some Geek Cadet events where I helped children aged 7-12 learning Python and Scratch. I am a STEM Ambassador and run a Code Club as well as being a trainer for Code Club Pro.</p>
+I have volunteered for some Geek Cadet events where I helped children aged 7-12 learning Python and Scratch. I am a STEM Ambassador and run a Code Club as well as being a trainer for Code Club Pro. I helped to organise DjangoGirls Sheffield and CodeUp Sheffield.</p>
 <p><strong>Public Speaking<br />
 </strong><br />
 These are all the talks I have given and am booked to give. I would love to give more talks around the areas of gaming and technology especially about getting women and children into technology.</p>
+<p><strong>2016</strong></p>
+<p>June 9 - UX Scotland <em>Asking About Gender Workshop</em></p>
+<p>June 6 - NUX Manchester <em>Asking About Gender</em></p>
+<p>June 2 - Scotland JS <em>Asking About Gender</em></p>
+<p>May 26 - Sheffield JS <em>Asking About Gender Workshop</em></p>
+<p>April 22 - Render Conf <em>Asking About Gender</em></p>
+<iframe src="https://player.vimeo.com/video/166790858" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/166790858">Render 2016 - Chad Gowler</a> from <a href="https://vimeo.com/whiteoctober">White October</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p>March 8 - Drupal NW <em>Mental Health, Your Employer and You</em></p>
+<p>Jan 24 - Manchester Girl Geeks <em>Getting Into Blogging/em></p>
 <p><strong>2015</strong></p>
 <p>September 19 - Pycon UK <em>Asking About Gender</em></p>
 <p>August 27 - Sheffield JS <em>Why Is Teaching Web Development So Difficult?</em></p>
