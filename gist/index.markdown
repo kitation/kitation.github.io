@@ -47,7 +47,7 @@ These are all the talks I have given and am booked to give. I would love to give
 <iframe src="https://player.vimeo.com/video/166790858" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/166790858">Render 2016 - Chad Gowler</a> from <a href="https://vimeo.com/whiteoctober">White October</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <p>March 8 - Drupal NW <em>Mental Health, Your Employer and You</em></p>
-<p>Jan 24 - Manchester Girl Geeks <em>Getting Into Blogging/em></p>
+<p>Jan 24 - Manchester Girl Geeks <em>Getting Into Blogging</em></p>
 <p><strong>2015</strong></p>
 <p>September 19 - Pycon UK <em>Asking About Gender</em></p>
 <p>August 27 - Sheffield JS <em>Why Is Teaching Web Development So Difficult?</em></p>
