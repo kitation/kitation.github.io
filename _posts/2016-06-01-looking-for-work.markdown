@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: ! '2016: From Dev To Design'
+title: ! 'Looking For Work!'
 author:
   display_name: chad
 
