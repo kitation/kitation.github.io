@@ -8,8 +8,6 @@ author:
 
 tags:
 - personal
-- geekmentalhelpweek
-- mental health
 ---
 
 A developer’s time is expensive. It doesn’t matter if the company is an internal product team or an agency, we estimate budgets based on time. For example, you might be renting out your developers for £700 a day, or estimating that the next sprint costs you £5000 just in development time. This is why timesheets are so important, we need to bill clients based on the time you spent working on their project. It’s why we have daily standups, to make sure developers and tasks are moving at a reasonable pace. Development takes as long as it takes, but we still want our developers to account for every hour.
