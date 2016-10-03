@@ -12,7 +12,7 @@ tags:
 
 A developer’s time is expensive. It doesn’t matter if the company is an internal product team or an agency, we estimate budgets based on time. For example, you might be renting out your developers for £700 a day, or estimating that the next sprint costs you £5000 just in development time. This is why timesheets are so important, we need to bill clients based on the time you spent working on their project. It’s why we have daily standups, to make sure developers and tasks are moving at a reasonable pace. Development takes as long as it takes, but we still want our developers to account for every hour.
 
-<!-- more -->
+<!--more-->
 
 I suffer from semi-frequent anxiety attacks. Sometimes, they are very typical panic attacks; the shaking hands, short breath, increased heart rate. Sometimes, they are complete breaks in my concentration and I can zone out for several minutes at a time. On bad days, it can be both and I can spend a couple of hours or more panicking. Panicking means I’m not working. It means there are days where I get maybe an hour of productive work done. I also suffer from depression, which on bad days (or the same bad day) means I can spend hours in near-suicidal despair.
 
