@@ -2,7 +2,7 @@
 title: Another Side of Brilliant Me
 subtitle: "Web developer turned producer, Code Club volunteer and occasional event organiser. Talks about gaming, gender and education."
 email: chad@kitation.co.uk
-description: 
+description:
 baseurl: "" # the subpath of your site, e.g. /blog/
 permalink: /:year/:month/:day/:title.html
 paginate: 10
@@ -14,3 +14,4 @@ github_username:  kitation
 
 # Build settings
 markdown: kramdown
+gems: [jekyll-paginate]
