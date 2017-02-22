@@ -1,0 +1,40 @@
+---
+layout: post
+status: publish
+published: true
+title: ! "2016: Let's not do this again"
+author:
+  display_name: chad
+
+tags:
+- personal
+---
+
+*Warning: Contains mentions of self-harm, plus details about depression, anxiety and panic*
+
+For the last couple of years, I've written little reviews of the year. I never expect many people to read them. I like them because they help me reflect, help me to remember all the good things that happened. I'm a December baby so I'm always a little reflective this time of year. It has not been a good year. I had to go through my calendar and my Twitter archive to actually remember what happened this year. Part of that is probably aging, but most of it is because I'm not well.
+
+<!--more-->
+
+Lots of people are starting to talk about their experiences with mental illness; especially depression and anxiety. On the whole I think this is good, the stigma is real and only by speaking will it go away. However, it can lead to a silencing of other mental issues. This post is about depression because that's what I have. I have read a lot of blogs about depression, but I don't often find that I relate a lot to them. 
+
+Earlier in the year I wrote a post about my experiences with self-harm. I still don’t see many people talk about this. I have briefly written about panic attacks, and I see lots about those, but I’ve been suffering from depersonalisation, and I didn’t even know that was a thing related to anxiety. My depression feels loud, dramatic. It is not just in my head, but it bleeds into all my relationships. This has been a big thing for me this year and this post is looking at this past year through that lens.
+
+Last summer, I was centre lead for Festival of Code, a week-long hackathon for young people that finished with a weekend away in Birmingham. The stress of that week broke me; I’ve always had issues but that week felt like a turning point, like a layer of defence had been burned away. I saw a therapist for a few weeks but we didn’t get on. Towards the end of the year, I realised that coding was making me miserable and so I looked to 2016 as a time to make the sideways step into something more people-driven.
+
+The start of the year I stopped being a developer and became a producer at the company I worked for. I started seeing a better therapist and we did some good work. We put some good support structures in place at work, and even though the issues didn’t go away, they felt easier to deal with. The first quarter of the year was good. I helped organise DjangoGirls in February and spoke at 3 conferences. I love public speaking; it’s possibly the only thing I can say that I am good at. The feedback I get from people is very valuable to me. It’s helped me a lot with discovering my gender identity and being able to own it. I had the unique experience at Scotland JS of not being the only non-binary speaker, which was amazing.
+
+In the beginning of the summer, it was agreed that me being in the producer role wasn’t working out for various reasons and so I left my employer. That experience, and the months of unemployment that followed, are the only things I think I will remember about this year in the future. I had a dream, a desire to be something, but a lack of experience and education meant that hunting for UX jobs was fruitless. Constant rejections and loneliness stripped another layer of defence in me. I could no longer afford to pay for my therapist. I hate recruitment, I hate the bullshit on both sides. I hate that as an industry we only want experienced people but are unwilling to put the work in ourselves. I hate that they put people in boxes and never allow them to break free. I hate how impersonal tech tests can be, and how communication and interpersonal skills are devalued. After a few months of getting nowhere, I had to swallow my pride and go back to development. 
+
+I got a job at Sky as a web developer, which the idea that they would crosstrain me in Javascript. That training hasn’t happened yet, but I have been learning React on the job which has been interesting. It’s my first job in a big corporate, and it’s been my first time working towards important immovable deadlines. 
+
+It’s been very very hard. My depression and anxiety have always been periodic; a few weeks of stability followed by a week or two of very intense panic and low mood. The last few months haven’t been like that, they have been constant. It started off with the panic form of anxiety and is now I am deep into this depression, and my anxiety is presenting as depersonalisation.
+
+Depression is a thief. It steals your past, your present and your future. All moments just become grey and fuzzy. It has blocked my memory of this year, it becomes all you can remember. It stops you focusing on the moment; every day is endless arguments with the voice in my head that wants me to die. I try to use pain to focus, but all that does is reinforce the other voice that thinks I’m in danger and I should get out of there. It stops you imagining a future, all you see is this moment going on and on forever. 
+
+The depersonalisation is new. The anxiety and depression are like my brain is telling me something is wrong, and it sends panic attacks ( also other forms of anxiety attacks, like zoning out/freezing ). The panic attacks don’t work and so we step it up a notch and my brain shuts me out completely. This means that I can struggle to understand reality; it feels like I’m dreaming. I don’t feel like I have full control of the body, I can touch myself but it feels like being touched by someone else. I didn’t know that this is a thing related to anxiety; I just thought I was going insane. 
+
+These things are not quiet. They are difficult to hide. I rely on people around me to support me, but I don’t know what that support should look like. I feel like I depend on some people too much. It’s hard for them because I am not rational and so I can’t say “in this situation do X”. I know that in the end only I can fix myself.
+
+I thought 2016 would be the year I would find myself, I would figure out what I want. I thought if I wanted it hard enough I could do anything. I thought being a conference speaker would open endless opportunity. I was wrong. So, 2017 needs to be practical. Some small steps and a couple of big ones. I would like to go back to university to get a Masters in something UX related. I would also like to get more involved in activism. I’m trying to be more openly queer. I received an amazing email from someone saying that they don’t feel comfortable being out non-binary and that they are grateful that I can speak for them and make it easier for them. I live in a world that is moving in a direction that would see me silenced. I want to get better. 
+
