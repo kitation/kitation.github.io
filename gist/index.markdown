@@ -38,9 +38,17 @@ I have volunteered for some Geek Cadet events where I helped children aged 7-12 
 <p><strong>Public Speaking<br />
 </strong><br />
 These are all the talks I have given and am booked to give. I would love to give more talks around the areas of gaming and technology especially about getting women and children into technology.</p>
+<p><strong>2017</strong></p>
+<p>Jan 18 - NDC London <em>ASL: Why User Data is More Than Forms</em></p>
+<p>April 1 - Alterconf London <em>Trapped By The Trappings</em></p>
+<p>April - Djangocon EU <em>The How and Why of Asking Users Who They Are</em></p>
+<p>April 8 - PHP Yorkshire <em>The How and Why of Asking Users Who They Are</em></p>
 <p><strong>2016</strong></p>
+<p>Nov 30 - UX Sheffield <em>ASL: Why User Data is More Than Forms</em></p>
+<p>Nov 7 - NUX Liverpool <em>ASL: Why User Data is More Than Forms</em></p>
 <p>June 9 - UX Scotland <em>Asking About Gender Workshop</em></p>
 <p>June 6 - NUX Manchester <em>Asking About Gender</em></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZaHra3H9hAo" frameborder="0" allowfullscreen></iframe>
 <p>June 2 - Scotland JS <em>Asking About Gender</em></p>
 <p>May 26 - Sheffield JS <em>Asking About Gender Workshop</em></p>
 <p>April 22 - Render Conf <em>Asking About Gender</em></p>
