@@ -41,7 +41,6 @@ These are all the talks I have given and am booked to give. I would love to give
 <p><strong>2017</strong></p>
 <p>Jan 18 - NDC London <em>ASL: Why User Data is More Than Forms</em></p>
 <p>April 1 - Alterconf London <em>Trapped By The Trappings</em></p>
-<p>April - Djangocon EU <em>The How and Why of Asking Users Who They Are</em></p>
 <p>April 8 - PHP Yorkshire <em>The How and Why of Asking Users Who They Are</em></p>
 <p><strong>2016</strong></p>
 <p>Nov 30 - UX Sheffield <em>ASL: Why User Data is More Than Forms</em></p>

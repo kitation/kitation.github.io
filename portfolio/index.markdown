@@ -40,6 +40,7 @@ comments: []
 	<ul>
 		<li>jQuery</li>
 		<li>Node.js</li>
+		<li>React</li>
 	</ul>
 </div>
 <div class = 'right'>
@@ -49,6 +50,7 @@ comments: []
 		<li>Selenium</li>
 		<li>RSpec</li>
 		<li>Cucumber</li>
+		<li>Mocha</li>
 	</ul>
 </div>
 <div class = 'left'>
@@ -76,12 +78,13 @@ comments: []
 		<li>Public Speaking </li>
 		<li>Events Organisation </li>
 		<li>Technical Writing</li>
+		<li>Mentoring</li>
 	</ul>
 </div>
 <div style='clear: both;'></div>
 
 <h3>Work Experience</h3>
-<p><strong>Web Developer at Yoomee</strong> August 2014 - Present</p>
+<p><strong>Web Developer at Yoomee</strong> August 2014 - June 2016</p>
 <ul>
 	<li>Creating websites using Ruby on Rails</li>
 	<li>Running workshops with clients and users</li>
@@ -100,7 +103,7 @@ comments: []
 <p><strong>Technical Analyst at The Test People</strong> February 2013 - May 2013 (4 months)</p>
 <ul>
 	<li>The design and implementation of an internal AWS event and billing monitor</li>
-	<li>A Flask webapp to display log files in real time</li> 
+	<li>A Flask webapp to display log files in real time</li>
 	<li>Writing technical training tools and materials</li>
 </ul>
 	<p><strong>Web Developer at ZOO Digital Group plc</strong> September 2011 - February 2013 (1 year 6 months)</p>
