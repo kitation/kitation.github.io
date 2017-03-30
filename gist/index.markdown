@@ -29,15 +29,10 @@ comments:
     MjAxNC0wMi0wOCAxNjoxNDozMSArMDAwMA==
   content: ! '[...] Public Speaking And Events [...]'
 ---
-<p><strong>First Play Sheffield<br />
-</strong><br />
-I am one of the founders of <a href="http://www.firstplaysheffield.co.uk" target="_blank">First Play Sheffield</a>, a videogame culture usergroup. As part of this I have organised talks and creative workshops.</p>
-<p><strong>Tutoring<br />
-</strong><br />
-I have volunteered for some Geek Cadet events where I helped children aged 7-12 learning Python and Scratch. I am a STEM Ambassador and run a Code Club as well as being a trainer for Code Club Pro. I helped to organise DjangoGirls Sheffield and CodeUp Sheffield.</p>
+
 <p><strong>Public Speaking<br />
 </strong><br />
-These are all the talks I have given and am booked to give. I would love to give more talks around the areas of gaming and technology especially about getting women and children into technology.</p>
+These are all the talks I have given and am booked to give.
 <p><strong>2017</strong></p>
 <p>Jan 18 - NDC London <em>ASL: Why User Data is More Than Forms</em></p>
 <p>April 1 - Alterconf London <em>Trapped By The Trappings</em></p>
