@@ -1,0 +1,6 @@
+dependencies:
+  pre:
+    - npm install -g pa11y-ci
+test:
+  override:
+    - pa11y-ci
