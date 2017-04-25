@@ -3,4 +3,4 @@ dependencies:
     - npm install -g pa11y-ci
 test:
   override:
-    - pa11y-ci --sitemap _site/sitemap.xml
+    - pa11y-ci --sitemap http://kitation.co.uk/sitemap.xml
