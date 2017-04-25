@@ -8,7 +8,7 @@ permalink: /:year/:month/:day/:title.html
 paginate: 10
 excerpt_separator: <!--more-->
 
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://kitation.co.uk" # the base hostname & protocol for your site
 twitter_username: kitation
 github_username:  kitation
 
