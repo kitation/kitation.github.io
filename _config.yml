@@ -14,5 +14,5 @@ github_username:  kitation
 
 # Build settings
 markdown: kramdown
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-sitemap]
 theme: jekyll-theme-cayman
