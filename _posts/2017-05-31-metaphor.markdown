@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: ! "Depersonalisation and Metaphors"
+title: ! "Depersonalisation and Metaphor"
 author:
   display_name: chad
 
