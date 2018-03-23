@@ -14,12 +14,12 @@ In the past I’ve written and spoken about non-binary inclusion in tech, specif
 
 <!--more-->
 
-Terms! (Simplified for ease of reading)
+*Terms! (Simplified for ease of reading)*
 
-nb - non-binary, people who do identify wholly as a man or a woman
-amab/afab - assigned male/female at birth, currently sex and gender are assigned based on the genitalia at birth
-cis - people who are the same gender they were assigned at birth
-trans - people who are not the same gender they were assigned at birth
+- *nb: non-binary, people who do identify wholly as a man or a woman*
+- *amab/afab: assigned male/female at birth, currently sex and gender are assigned based on the genitalia at birth*
+- *cis: people who are the same gender they were assigned at birth*
+- *trans: people who are not the same gender they were assigned at birth*
 
 I’ve been non-binary since I was a teenager (although that wasn’t really a word then) but I’ve only been “out” since 2014. That was the year I started talking about trans and non-binary users, asking about gender, at conferences. The talk has changed a lot as my understanding of my own gender has changed. My understanding of my gender changes all the time. Sometimes it’s through meeting someone with a similar experience, somethings it’s through meeting someone with a very different one. I learn new words, some of them resonate and some of them repel. Thing is, I can’t really say “I won’t talk until I’m sure” because I’m never sure and never will be. 
 
