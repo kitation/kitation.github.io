@@ -16,7 +16,7 @@ In the past I’ve written and spoken about non-binary inclusion in tech, specif
 
 *Terms! (Simplified for ease of reading)*
 
-- *nb: non-binary, people who do identify wholly as a man or a woman*
+- *nb: non-binary, people who do not identify wholly as a man or a woman*
 - *amab/afab: assigned male/female at birth, currently sex and gender are assigned based on the genitalia at birth*
 - *cis: people who are the same gender they were assigned at birth*
 - *trans: people who are not the same gender they were assigned at birth*
