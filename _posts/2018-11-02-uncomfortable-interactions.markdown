@@ -10,11 +10,12 @@ tags:
 - px
 - gaming
 ---
+Part 2 covers the second half of my literature review; looking at uncomfortable interactions, empathy and moral values.
+
+<!--more-->
 
 ## Uncomfortable Interactions
 What does it mean to make someone “uncomfortable” when playing a game? In the context of HCI, Benford et al (2012) classify uncomfortable interactions into 4 different types; visceral, cultural, discomfort through control and discomfort through intimacy. They use an overall definition of uncomfortable interactions as “those that cause a degree of suffering to the user” whilst stating the aim of an uncomfortable interaction is not just to cause discomfort but as a “way of promoting certain other benefits”. These benefits can be increasing charitable donations (Steinemann, Mekler, Opwis 2015) or promoting awareness of a social issue. Much like eudaimonic entertainment, uncomfortable experiences can improve awareness of the human experience (Benford et al 2012) and allow players to think about their personal values.
-
-<!--more-->
 
 The uncomfortable interactions discussed in Benford’s paper revolve around physical human- computer interactions rather than a purely digital experience such as a digital game. “Visceral” experiences depend on physical feedback such as pain or wearing uncomfortable objects during play. Discomfort through control and through intimacy are also heavily dependent on a physical space, although could be explored with digital multiplayer experiences. It is possible to combine physical and digital game interactions such as Musical Embrace (Huggard et al 2013), a digital game that is controlled by two players pushing on a pillow from both sides as if hugging it and the other player. This is an exploration of social awkwardness (discomfort through intimacy by Benford’s definitions) as an enhancer of the game experience. Dark Room Sex Game (Copenhagen Game Collective 2008) is a digital game played with controllers alongside other players in the same space. The gameplay that of a rhythm game, where actions with the controller are done with in a rhythmic fashion with the game to simulate a sexual experience. There are no graphics in the game, leaving the player to mentally “fill in the blanks”. Musical Embrace and Dark Room Sex Game are examples of how the blending of digital and physical experiences can combine to create discomfort e.g. through creating embarrassment.
 
