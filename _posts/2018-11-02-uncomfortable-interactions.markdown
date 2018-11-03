@@ -5,7 +5,7 @@ published: true
 title: ! "Discomfort and Player Experience Part 2: Uncomfortable Interactions"
 author:
   display_name: chad
-
+category: project
 tags:
 - px
 - gaming
