@@ -1,7 +1,7 @@
 ---
 layout: page
 status: publish
-published: true
+published: false
 title: CV
 author:
   display_name: chad
