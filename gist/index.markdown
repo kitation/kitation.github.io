@@ -36,6 +36,8 @@ This has been given at conferences (Talk UX, PyconUK, Render Conf, Scotland JS, 
 Most of us will be affected by a mental health issue at some point in our lives, and this high-pressure, fast-paced industry can make coping difficult. We all want to do our jobs well, but sometimes we need a bit of extra support.
 This talk will explain why people can struggle and how to change touchpoints like meetings, code review and timesheets to make the day-to-day easier to navigate. We will cover how to start conversations with people in your team and how small changes in language can make a big difference.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VRmlSsPA-VY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This talk is a 30 minute conference talk and has been given at Alterconf and PyconUK as well as internally at work.
 
 
