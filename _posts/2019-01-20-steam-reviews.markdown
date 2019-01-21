@@ -30,12 +30,12 @@ After analysing a bunch of reviews gathered by this method, I realised that I wa
 
 What I needed to do was hone down tags that were likely to have the kind of games I wanted. Tags like "Short" or "Controller compatible" don't really tell you anything about content. I pulled out the top 200 popular tags and removed any that were solely about gameplay and any that were genre tags (like "Fantasy"). I went over the remaining list with my supervisor and came out with these Tags
 
-• Violent
-• Gore
-• Story Rich
-• Difficult
-• Atmospheric
-• Dark
+* Violent
+* Gore
+* Story Rich
+* Difficult
+* Atmospheric
+* Dark
 
 I applied the same method of pulling out the top 10 games and then recent reviews. I pulled 100 reviews from each game and removed any that were less than 20 words. This left me with ~1300 reviews to read. A quick once over of randomly selected games from my list showed about a 7% hit rate of useful reviews, so I should get 70 out of the whole lot which was around the amount I was looking for.
 
@@ -44,22 +44,39 @@ Interlude: I ended up writing some javascript to help me out a lot with this. I 
 So 1300 reviews down to 70 right? That's a pretty low expectation right there. In the end, I only ended up with 32 useful reviews. My main contribution to academic game discourse is to show people don't talk about emotions on Steam. Here's how those reviews broke down by game.
 
 Doki Doki Literature Club - 7
+
 XCOM 2 - 3
+
 Conan Exiles - 2
+
 Darkest Dungeon - 2
+
 Don’t Starve Together - 2
+
 Fallout 4 - 2
+
 Final Fantasy XIV - 2
+
 Frostpunk - 2
+
 Lord of the Rings Middle Earth: Shadow of War - 2
+
 Ultimate Custom Night - 2
+
 Black Desert Online - 1
+
 Bless Online - 1
+
 Dark Souls: Prepare to Die Edition - 1
+
 Dark Souls Remastered - 1
+
 Divinity Original Sin 2 - 1
+
 Elder Scrolls Online - 1
+
 Quake Champions - 1
+
 Total War: Warhammer - 2 1
 
 So what did I find? Well three main themes jumped out; "Against Expectations", "Attachment and Loss" and "Hell is Other People". My project has fairly long explanations with quotes for each theme but here is a shorter version.
