@@ -26,7 +26,7 @@ Available as a 30 min talk.
 
 While there is an increasing amount of research in the player experience area, little work has been done specifically around discomfort in digital games and what this means. This talk covers two studies that look at the experience, causes and motivations behind the play of games that induce discomfort. An analysis of Steam reviews and a follow-up questionnaire study focusing on asking participants about uncomfortable experiences in Darkest Dungeon, Papers Please and Fallout 4 were used to try and define discomfort; this talk will discuss what was found and what this means for game design and player experience.
 
-This talk is based on my Master's dissertation, more information about that can be found on the [Games Research](https://kitation.co.uk/project) page. It is 30 minutes long and has been given at Manchester Barcamp and London Unread Meetup. Find the video here: https://skillsmatter.com/skillscasts/13397-uncomfortable-experiences-in-digital-games
+This talk is based on my Master's dissertation, more information about that can be found on the [Games Research](https://kitation.co.uk/project) page. It is 30 minutes long and has been given at Manchester Barcamp and London Unread Meetup. [Find the video here](https://skillsmatter.com/skillscasts/13397-uncomfortable-experiences-in-digital-games)
 
 ### Mental Health in Agile Workplaces
 
