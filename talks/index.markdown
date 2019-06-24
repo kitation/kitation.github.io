@@ -14,11 +14,11 @@ author:
 
 If your event or organisation is interested in any of these talks, please contact me on [Twitter](https://twitter.com/kitation) or via email (hello /AT/ kitation.co.uk).
 
-### Crossing Over: A Journey From Developer To UXer
+### Working Through The Problem: How Developers Can Get Involved With Research
 
-What is it like to change roles in the tech industry? What else goes on besides coding? Follow me as I trace my career from developer to user researcher, from junior to senior and back again, and learn about the software development process from both sides of the fence.
+We talk a lot about user research being a “team sport” but this doesn’t always work out in reality. It can be tricky for non-researchers to make time in their schedules on something not seen as their “day job”.
 
-This talk covers why I wanted to be a developer, why I stopped, what it's like being a user researcher and lessons I learnt about culture and perceptions of different skill sets.
+This talk is about why taking part in user research is a vital task for developers, ways you can start talking to dev teams and managers about making space in sprints for research, and how analysis can create a better product. We will also look at how to do research without a researcher effectively and where even small amounts of research can yield important insights.
 
 Available as a 30 min talk.
 
@@ -49,6 +49,12 @@ As we move towards more customised experiences for our users, why do we still in
 This talk comes in many variants; 5 minute lightning talk, 30 mins conference talk, 1 hour conference talk and 90 minute workshop. [Slides are hosted on slidr.io](https://slidr.io/kitation/asking-about-gender-merseycode#1)
 
 This has been given at conferences (Talk UX, PyconUK, Render Conf, Scotland JS, UX Scotland), usergroups (Ladies that UX, NUX, Merseycode), companies (Lost Your Name, Ministry of Justice Digital) and universities (Edinburgh, York).
+
+## Being Non-binary in Binary Spaces
+
+A talk for women in tech/diversity groups on how to be more inclusive of non-binary people and how to have conversations to make groups aware of *all* the genders.
+
+30 min talk, previously given at Sheffield Women in Tech.
 
 
 ## Inactive talks
