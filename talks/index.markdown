@@ -63,3 +63,10 @@ A talk for women in tech/diversity groups on how to be more inclusive of non-bin
 ### Accessibility and HTML 101
 ### Teaching Web Development
 ### Misc
+
+## Publications and Interviews
+
+* "Asking about gender" - Accessibility column in Netmag 283 July 2016
+* https://www.businesscloud.co.uk/magazine/sexism-in-tech-brought-into-focus
+* Innerpod - mental health podcast about growing up queer https://innerpod.co.uk/episode-4-chad-on-teenagerhood/
+* Tech Point Zero - Name Changes and Real Name Policies https://techpointzero.com - episode 4
