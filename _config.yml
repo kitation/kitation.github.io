@@ -16,3 +16,5 @@ github_username:  kitation
 markdown: kramdown
 gems: [jekyll-paginate]
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
