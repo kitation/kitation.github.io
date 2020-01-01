@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: ! "2020: Let's start out optimistic and see how long it takes"
+author:
+  display_name: chad
+tags:
+- personal
+- mental health
+- work
+---
+
+I did start out writing a retrospective of 2019, but it was depressing and making me feel depressed every time I sat down to work on it, so I've ditched that and decided to look ahead for once. So here are my goals for the next year, and we'll see how long it takes for the world to destroy them.
+
+<!--more-->
+
+## Look after myself
+
+One good thing about last year was that I did try to sort out a lot of long term health bullshit. I went to see a physiotherapist for a couple of months and it was the best thing I've ever done. I've had Achilles tendonitis since my teens and I just accepted it as part of being unfit, but it turns out all I needed to do was get better shoes and do some stretches. It meant that I can do on longer walks now without spending the next day in pain. So my goal for this year is to walk more, and I want to be able to walk up Mam Tor over the summer. Yeah it's a baby mountain, but it'll be the hardest thing I've ever done and I need to push myself.
+
+From a mental health perspective, 2019 was a fucking ride. My medication keep most of it under control, especially when I look back at how bad I was a couple of years ago. I struggled with a couple of situational lows, but in general I've been stable. I still have the odd block of therapy which I find really useful, but I still struggle sometimes accepting that it's an ok thing to do. Mental health goal for 2020 is to get into a better habit of taking my medication every day; I forget when I'm stressed out and it just spirals, so yeah need to work on that.
+
+## Find my niche
+
+2019 was my first full year of being a user researcher, and in the autumn I got a permanent position. Going from dev -> masters -> user research has been an interesting experience. I'm still learning a lot while being frustrated that I can't learn it faster. Since the summer I've been working in our internal accessibility team and I've been loving that work. I kinda feel like my niche is not having one, that I can hold conversations with anyone working in a tech delivery team on their own level, and I think that's a good skill set. It's a hard one to sell to employers though by itself, so I want to spend this year really sorting out exactly the kind of work I want to do. One thing I'm very interested in is looking at digital accessibility and mental health; partially because of my lived experience, and because I've done some work in this area this year and found it fascinating but neglected by the wider industry.
+
+I want to get back on the conference circuit again. I spoke at some great meetups last year and I want to start working those talks into something more conference-y. I think though that the UK conference scene is dying, or at least is less accessible than it was. Too many conferences only have invited speakers, or such a small CFP that it's nearly impossible to get in to. It could be that I need to look more at other ways of communicating my ideas, but for now I want to stick to public speaking and see what happens. I enjoy speaking and I'm good at it. The training I've been delivering at work has been hitting that spot somewhat so I might put some workshops together for meetups rather than talks and see how that goes.
+
+## Get some hobbies
+
+It's not that I play too many videogames, it's more that I don't do much else. I tried picking the flute back up a couple of years ago but my asthma makes it really hard to play for long and when you mess up a note that shit carries. I started knitting again when I was writing my dissertation in 2018 and managed to teach myself the perl stitch but I've forgotten it all again and I don't think I was doing it right to start with. So goal for 2020 is to find a good hobby. I'd like to try creative writing again, or I'm gonna look at real-life places I can take my knitting and get some help with it.
+
+I would also like to get another cat (or two) this year. Having the routine of looking after Elsa, needing to get up to feed her and needing to come home to see her was a big help for me, and I've missed that since she's been gone. Having company is good for the soul.
+
+## So there we go
+
+2020 isn't going to be fun for a lot of reasons, but I hope I can achieve more. I hope I keep figuring out who I am and what the fuck I'm doing. Happy New Year folks.
