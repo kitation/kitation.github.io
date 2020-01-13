@@ -14,6 +14,14 @@ author:
 
 If your event or organisation is interested in any of these talks, please contact me on [Twitter](https://twitter.com/kitation) or via email (hello /AT/ kitation.co.uk).
 
+### Accessibility in Practice: Top Mistakes and How to Find (and Fix) Them
+
+Accessibility is as important as security and performance, and like those things it often gets overlooked, causing great expense. Over the years I have worked in tech, I have developed and tested many websites; all with huge but easily fixed accessibility errors.
+
+This talk will cover the top problems I come across when checking website accessibility; tools to uncover them and the code practices needed to fix and avoid them.
+
+Available as a 30 minute talk or longer workshop
+
 ### Working Through The Problem: How Developers Can Get Involved With Research
 
 We talk a lot about user research being a “team sport” but this doesn’t always work out in reality. It can be tricky for non-researchers to make time in their schedules on something not seen as their “day job”.
