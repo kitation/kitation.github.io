@@ -12,15 +12,31 @@ author:
 
 ## Active talks
 
-If your event or organisation is interested in any of these talks, please contact me on [Twitter](https://twitter.com/kitation) or via email (hello /AT/ kitation.co.uk).
+If your event or organisation is interested in any of these talks, please contact me on [Mastodon](https://tech.lgbt/@kitation) or via email (chad.gowler /AT/ proton.me).
 
-### Accessibility in Practice: Top Mistakes and How to Find (and Fix) Them
+### The Accessibility Expert Is In
 
-Accessibility is as important as security and performance, and like those things it often gets overlooked, causing great expense. Over the years I have worked in tech, I have developed and tested many websites; all with huge but easily fixed accessibility errors.
+Accessibility specialists can sometimes be like Lucy, pulling the football of launching your website from under you by finding a bunch of issues that need to be fixed before go-live. This talk is to show you how to not be a Charlie Brown by demonstrating quick and simple checks to catch some of the most common issues.
 
-This talk will cover the top problems I come across when checking website accessibility; tools to uncover them and the code practices needed to fix and avoid them.
+How? I issue you a challenge! Without tools or assistive technology, I bet that I can find at least one issue within a minute of testing. If I win I tell you how I did it, if you win there will be prizes and glory! 
 
-Available as a 30 minute talk or longer workshop
+Available as a 30-45 minute talk. Note: this is highly interactive but will work online as well as in person
+
+### What web accessibility can learn from game accessibility (working title)
+
+In recent years, the prominence of accessibility in gaming has skyrocketed as publishers use accessibility innovations to help market games and accessibility is being recognised at award ceremonies. Given that game accessibility standards are partially an offshoot of WCAG 2.0, it’s time to check in and see what lessons have been learnt.
+
+This talk will compare WCAG and other web standards with various game accessibility standards with the aim of seeing where the gaps in the web are and how looking at innovations in gaming could be adopted by digital accessibility practitioners to improve the web for disabled people. 
+
+Writing in progress, will be ready by summer 2023.
+
+### Disability is not a bad word: closing the gap between accessibility and disabled people
+
+The web is for everyone and accessibility makes things better for everyone. These phrases are oft-repeated by people working in accessibility and inclusion, usually to persuade others that making things accessible is something it is good to do. We have strong sets of standards to follow backed up by law to force companies where persuasion fails. So what’s the problem?
+
+Over time we have abstracted accessibility away from the experiences of disabled people and built an industry too focused on compliance and too removed from the people we serve. This talk will look at how and why this has happened, and what we as an industry should do to be truly accessible.
+
+Writing in progress, will be ready by summer 2023.
 
 ### Working Through The Problem: How Developers Can Get Involved With Research
 
