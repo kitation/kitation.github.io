@@ -1,7 +1,7 @@
 # Site settings
 title: Another Side of Brilliant Me
-subtitle: "User researcher, general nerd. Writes about gender, software, mental health and digital games."
-email: chad@kitation.co.uk
+subtitle: "Accessibility specialist, general nerd. Writes about gender, software, mental health and digital games."
+email: hello@kitation.co.uk
 description:
 baseurl: "" # the subpath of your site, e.g. /blog/
 permalink: /:year/:month/:day/:title.html
