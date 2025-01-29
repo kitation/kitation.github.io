@@ -18,11 +18,11 @@ If your event or organisation is interested in any of these talks, please contac
 
 This workshop introduces what screen readers are, how to use the common ones and how to spot and fix common errors screen reader users encounter when browsing the web. Free to meetups, charities and public sector otherwise contact for fees.
 
-### Introduction to web accessibility training
+### Introduction to web accessibility
 
 This talk introduces accessibility at a high level, including what disability is, examples of assistive technology, reasons for making the web accessible and how to do some basic testing.
 
-Available as a 45-60 minute talk over the basics, 90 minutes with either basics of document accessibility or introduction to WCAG or 120 minutes with interactive exercises. Can be tailored to your needs, please contact me for a discussion. Free to meetups, charities and public sector otherwise contact for fees.
+Available as a 45 minute talk over the basics, 60 minutes with either basics of document accessibility or introduction to WCAG or 120 minutes with interactive exercises. Can be tailored to your needs, please contact me for a discussion. Free to meetups, charities and public sector otherwise contact for fees.
 
 ### The Accessibility Expert Is In
 
