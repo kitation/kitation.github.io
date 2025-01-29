@@ -12,7 +12,17 @@ author:
 
 ## Active talks
 
-If your event or organisation is interested in any of these talks, please contact me on [Mastodon](https://tech.lgbt/@kitation) or via email (chad.gowler /AT/ proton.me).
+If your event or organisation is interested in any of these talks, please contact me on [Bluesky](https://bsky.app/profile/kitation.co.uk) or via email (talks /AT/ kitation.co.uk).
+
+### Introduction to screen readers - 60-90 minutes workshop
+
+This workshop introduces what screen readers are, how to use the common ones and how to spot and fix common errors screen reader users encounter when browsing the web. Free to meetups, charities and public sector otherwise contact for fees.
+
+### Introduction to web accessibility training
+
+This talk introduces accessibility at a high level, including what disability is, examples of assistive technology, reasons for making the web accessible and how to do some basic testing.
+
+Available as a 60 minute talk over the basics, 90 minutes with either basics of document accessibility or introduction to WCAG or 120 minutes with interactive exercises. Can be tailored to your needs, please contact me for a discussion. Free to meetups, charities and public sector otherwise contact for fees.
 
 ### The Accessibility Expert Is In
 
@@ -28,15 +38,7 @@ In recent years, the prominence of accessibility in gaming has skyrocketed as pu
 
 This talk will compare WCAG and other web standards with various game accessibility standards with the aim of seeing where the gaps in the web are and how looking at innovations in gaming could be adopted by digital accessibility practitioners to improve the web for disabled people. 
 
-Writing in progress, will be ready by summer 2023.
-
-### Disability is not a bad word: closing the gap between accessibility and disabled people
-
-The web is for everyone and accessibility makes things better for everyone. These phrases are oft-repeated by people working in accessibility and inclusion, usually to persuade others that making things accessible is something it is good to do. We have strong sets of standards to follow backed up by law to force companies where persuasion fails. So what’s the problem?
-
-Over time we have abstracted accessibility away from the experiences of disabled people and built an industry too focused on compliance and too removed from the people we serve. This talk will look at how and why this has happened, and what we as an industry should do to be truly accessible.
-
-Writing in progress, will be ready by summer 2023.
+Available as a 30-45 minute talk
 
 ### Working Through The Problem: How Developers Can Get Involved With Research
 
@@ -62,8 +64,6 @@ This talk will explain why people can struggle and how to change touchpoints lik
 This talk is a 30 minute conference talk and has been given at Alterconf and PyconUK as well as internally at work.
 
 ### Asking about Gender
-
-*Only available on a consultant/paid basis, contact for fees*
 
 As we move towards more customised experiences for our users, why do we still insist on using the black boxes of male and female when asking users about their gender? And why are we asking for it in the first place? Between 1 and 5 percent of the UK population identifies as having a non-binary gender or are transgender. This talk aims to help developers ask users about their gender in a useful and sensitive manner; educate on what non-binary means and what other issues non-binary and gender variant users may face when using the web.
 
