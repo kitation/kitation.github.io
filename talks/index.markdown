@@ -22,7 +22,7 @@ This workshop introduces what screen readers are, how to use the common ones and
 
 This talk introduces accessibility at a high level, including what disability is, examples of assistive technology, reasons for making the web accessible and how to do some basic testing.
 
-Available as a 60 minute talk over the basics, 90 minutes with either basics of document accessibility or introduction to WCAG or 120 minutes with interactive exercises. Can be tailored to your needs, please contact me for a discussion. Free to meetups, charities and public sector otherwise contact for fees.
+Available as a 45-60 minute talk over the basics, 90 minutes with either basics of document accessibility or introduction to WCAG or 120 minutes with interactive exercises. Can be tailored to your needs, please contact me for a discussion. Free to meetups, charities and public sector otherwise contact for fees.
 
 ### The Accessibility Expert Is In
 
