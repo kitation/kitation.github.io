@@ -54,7 +54,7 @@ I know I rely on masking a lot to get me through research sessions, so while I d
 
 ## Autistic people have a superpower (that can be exploited for profit) ##
 
-Autistic people, like disabled people in general, are underemployed. the latest official statistics show that only around 3 in 10 working age autistic disabled people are in employment, compared with around 5 in 10 for all disabled people and 8 in 10 for non-disabled people. https://www.gov.uk/government/publications/the-buckland-review-of-autism-employment-report-and-recommendations/the-buckland-review-of-autism-employment-report-and-recommendations You might be able to see how belief in the previous myths I’ve discussed might contribute to this problem as well as struggles with job application processes and difficulties getting reasonable adjustments. Shrinking the autism employment gap: Finding out what really works - Tim Nicholls, 2025
+Autistic people, like disabled people in general, are underemployed. the latest official statistics show that only around 3 in 10 working age autistic disabled people are in employment, compared with around 5 in 10 for all disabled people and 8 in 10 for non-disabled people. You might be able to see how belief in the previous myths I’ve discussed might contribute to this problem as well as struggles with job application processes and difficulties getting reasonable adjustments. 
 
 The neurodiversity movement has been instrumental in shifting the dialogue about autism and other forms of neurodivergence to be about natural human variation with it’s positive and negative sides rather than a medical model that only sees autism as a disorder to be managed, or “cured”. 
  
